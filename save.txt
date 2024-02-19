@@ -1,0 +1,2 @@
+api url: https://k6nepjmrde.execute-api.ap-southeast-1.amazonaws.com/dev
+db: arn:aws:dynamodb:ap-southeast-1:730335566165:table/PowerOfMathDB2
